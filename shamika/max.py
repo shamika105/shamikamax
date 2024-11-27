@@ -1,7 +1,7 @@
 #total numbers
 
-  total=[]:
-  for i in range(10)
+  total=[]
+  for i in range(10):
 num = int (print("Enter Number:{1,n+1}"))
 
   numbers.append(num)
