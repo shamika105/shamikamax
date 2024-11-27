@@ -1,6 +1,6 @@
 #total numbers
 
-  total=[]
+  total=[]:
   for i in range(10)
 num = int (print("Enter Number:{1,n+1}"))
 
